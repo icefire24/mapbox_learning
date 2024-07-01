@@ -1,0 +1,14 @@
+{
+    "type": "Feature",
+    "properties": {
+        "id": 1,
+        "name": "摸鱼的春哥"
+    },
+    "geometry": {
+        "coordinates": [
+            114.48328003261895,
+            29.35629560547187
+        ],
+        "type": "Point"
+    }
+}

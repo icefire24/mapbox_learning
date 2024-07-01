@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.9754775703,
+                    22.9738585853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "佛山"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.8924240570,
+                    22.9455232178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "东莞"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3934329079,
+                    22.5260227812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "中山"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5784957837,
+                    22.2798455919,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "珠海"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.6762447099,
+                    22.2564412032,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "江门"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.2311261229,
+                    23.5288096969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "肇庆"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.4171848021,
+                    23.1204670181,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "惠州"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.7416187754,
+                    23.7829207450,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "潮州"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.0740150019,
+                    23.3623194049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "揭阳"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.5592212171,
+                    23.0118289630,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "汕尾"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.9052298026,
+                    21.9637977926,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "茂名"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.9846757488,
+                    21.8660334471,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "阳江"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.8684063160,
+                    24.2624673414,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "清远"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.9453232706,
+                    24.0493246181,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "河源"
+            }
+        }
+    ]
+}
